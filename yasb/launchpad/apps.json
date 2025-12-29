@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Adobe Illustrator 2026",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Adobe Illustrator 2026.lnk",
+    "icon": "C:\\Users\\ratta\\.config\\yasb\\launchpad\\icons\\adobe_illustrator_2026_1763472520522.png",
+    "type": "app",
+    "id": 1763472520525
+  },
+  {
+    "title": "Adobe Photoshop 2026",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Adobe Photoshop 2026.lnk",
+    "icon": "C:\\Users\\ratta\\.config\\yasb\\launchpad\\icons\\adobe_photoshop_2026_1763472516719.png",
+    "type": "app",
+    "id": 1763472516720
+  },
+  {
+    "title": "ExitLag",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\ExitLag.lnk",
+    "icon": "C:\\Users\\ratta\\.config\\yasb\\launchpad\\icons\\exitlag_1766578967396.png",
+    "type": "app",
+    "id": 1766578967398
+  },
+  {
+    "title": "Nexon Launcher",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Nexon\\Nexon Launcher.lnk",
+    "icon": "C:\\Users\\ratta\\.config\\yasb\\launchpad\\icons\\nexon_launcher_1766578972896.png",
+    "type": "app",
+    "id": 1766578972896
+  },
+  {
+    "title": "PURPLE",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Purple\\PURPLE.lnk",
+    "icon": "C:\\Users\\ratta\\.config\\yasb\\launchpad\\icons\\purple_1763472389512.png",
+    "type": "app",
+    "id": 1763472389513
+  },
+  {
+    "title": "Streamlabs Desktop",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Streamlabs Desktop.lnk",
+    "icon": "C:\\Users\\ratta\\.config\\yasb\\launchpad\\icons\\streamlabs_desktop_1766503976291.png",
+    "type": "app",
+    "id": 1766503976292
+  },
+  {
+    "title": "Zen",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Zen.lnk",
+    "icon": "C:\\Users\\ratta\\.config\\yasb\\launchpad\\icons\\zen_1766425713415.png",
+    "type": "app",
+    "id": 1766425713416
+  }
+]
