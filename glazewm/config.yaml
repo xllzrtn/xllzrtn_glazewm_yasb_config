@@ -163,6 +163,8 @@ window_rules:
         window_class: { equals: 'HwndWrapper[Purple.exe;;...]' }
       - window_process: { equals: 'Photoshop' }
         window_class: { equals: 'Photoshop' }
+      - window_process: { equals: 'LOSTARK.exe' }
+        window_class: { equals: 'EFLaunchUnrealUWindowsClient' }
     
 
 
